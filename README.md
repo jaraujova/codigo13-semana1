@@ -57,5 +57,12 @@ git branch
 
 
 ```
-git checkout -b develop
+git checkout -b nobre_de_branch
 ```
+-Sirve para crear un branch nuevo y poder trabajar en el 
+
+```
+git checkout nobre_de_branch
+```
+-Sirve para pasar de un Branch a otro
+
