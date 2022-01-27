@@ -7,7 +7,8 @@ git init
 ```
 
 -Este comando solo se hace una vez por proyecto, sirve para inicializar nuestro proyecto con git.
--:eye: crea una carpeta llamada .git
+-:eye: crea una carpeta  :file_folder: llamada 
+.git
 
 ```
 git status
