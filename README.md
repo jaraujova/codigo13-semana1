@@ -1,4 +1,4 @@
-# Codigo 13
+# Codigo 13 - Develop
 
 ##Comando para GIT
 
@@ -43,3 +43,19 @@ git pull origin main
 ```
 
 -Sive para descargar los cambios de nuestro repositorio en la nube
+
+```
+git clon 
+```
+-Descarga toda la carpeta desde git.hub.com
+
+
+```
+git branch 
+```
+- Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente
+
+
+```
+git checkout -b develop
+```
